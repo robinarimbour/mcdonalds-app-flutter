@@ -1,3 +1,3 @@
-# mcdonalds_app
+# mcdonalds-app-flutter
 
-A new Flutter project.
+A demo food ordering mobile application(McDonalds) made using Flutter.
